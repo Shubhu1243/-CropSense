@@ -14,7 +14,7 @@ An advanced **Machine Learning-based Crop Yield Prediction System** with an inte
 **Developed By:** Shubhankar Khatik  
 **Institution:** Institute of Engineering & Technology (IET), Lucknow  
 **Project Type:** Machine Learning | Agricultural Technology  
-**Year:** 2024
+**Year:** 2025
 
 ---
 
@@ -632,3 +632,4 @@ This project is for **educational and research purposes only**. Predictions shou
 **Last Updated:** November 2024  
 **Version:** 1.0.0  
 **Status:** Active Development
+
